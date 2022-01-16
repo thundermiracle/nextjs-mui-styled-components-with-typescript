@@ -1,0 +1,31 @@
+{
+  "name": "nextjs-mui-styled-components-with-typescript",
+  "private": true,
+  "license": "MIT",
+  "author": "ThunderMiracle",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@mui/material": "^5.2.8",
+    "@mui/styled-engine": "npm:@mui/styled-engine-sc@latest",
+    "next": "12.0.8",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.8",
+    "@types/react": "17.0.38",
+    "@types/styled-components": "^5.1.20",
+    "eslint": "8.6.0",
+    "eslint-config-next": "12.0.8",
+    "typescript": "4.5.4"
+  },
+  "resolutions": {
+    "@mui/styled-engine": "npm:@mui/styled-engine-sc@latest"
+  }
+}
