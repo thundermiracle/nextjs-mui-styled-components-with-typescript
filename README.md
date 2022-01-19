@@ -14,6 +14,10 @@ yarn
 yarn dev
 ```
 
+## Description
+
+https://thundermiracle.com/blog/2022-1-16-mui-styled-components-typescript/ （日本語）
+
 ## License
 
 This project is licensed under the terms of the [MIT license](/LICENSE).
